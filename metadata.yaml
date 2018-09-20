@@ -1,0 +1,29 @@
+_repo: A-Collection-of-Chirurgical-Tracts_52993
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beckett, William
+    alias: Becket, William
+    birthdate: 1684
+    deathdate: 1738
+    gutenberg_agent_id: '47154'
+    url: http://www.gutenberg.org/2009/agents/47154
+description: ''
+gutenberg_issued: '2016-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Surgery'
+- !lcc 'RD'
+- GITenberg
+tableOfContents: Of wounds of the head and brain -- New discoveries relating to the
+  cure of cancers -- Chirurgical remarks on several curious cases -- The history and
+  antiquity of the venereal disease -- A new method of curing consumptions by specific
+  medicines.
+title: A Collection of Chirurgical Tracts
+url: http://www.gutenberg.org/ebooks/52993
